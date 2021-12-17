@@ -1,3 +1,12 @@
+# Project files
+.idea
+
+# Generated data
+data
+
+# Cmake build directories
+/cmake-build-*
+
 # Prerequisites
 *.d
 
