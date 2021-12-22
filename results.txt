@@ -1,0 +1,132 @@
+Exec mxv: iters: 20 blocking: 1 by row: 1 Pr ct: 1 Pr rk: 0 Load data 6547.83 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 9.48185 9.1191 10.3905 0.347717 (in ms)
+Exec mxv: iters: 20 blocking: 1 by row: 1 Pr ct: 2 Pr rk: 0 Load data 6835.2 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 14.1526 13.8463 18.0412 0.918349 (in ms)
+send 9.527 9.239 13.4327 0.922246 (in ms)
+exec 4.61071 4.5841 4.7361 0.0373592 (in ms)
+recv 0.01376 0.0115 0.0233 0.00294089 (in ms)
+Exec mxv: iters: 20 blocking: 1 by row: 1 Pr ct: 4 Pr rk: 0 Load data 6613.95 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 15.7164 15.1957 18.5699 0.727609 (in ms)
+send 13.3927 12.8911 16.2466 0.718894 (in ms)
+exec 2.31005 2.2904 2.4301 0.0355364 (in ms)
+recv 0.012885 0.0097 0.0237 0.00359887 (in ms)
+Exec mxv: iters: 20 blocking: 1 by row: 1 Pr ct: 8 Pr rk: 0 Load data 6581.61 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 17.1327 15.9159 22.6671 1.34637 (in ms)
+send 15.9801 14.7515 21.4955 1.34149 (in ms)
+exec 1.14301 1.1169 1.2027 0.019485 (in ms)
+recv 0.00873 0.0064 0.0185 0.00339273 (in ms)
+Exec mxv: iters: 20 blocking: 1 by row: 1 Pr ct: 16 Pr rk: 0 Load data 6643.13 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 18.3493 17.305 29.0888 2.57497 (in ms)
+send 17.7766 16.7396 28.4951 2.56985 (in ms)
+exec 0.56327 0.5473 0.6022 0.0149416 (in ms)
+recv 0.00895 0.0064 0.0174 0.00293894 (in ms)
+Exec mxv: iters: 20 blocking: 1 by row: 1 Pr ct: 32 Pr rk: 0 Load data 6543.37 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 19.5057 17.9981 32.0461 3.0121 (in ms)
+send 19.1806 17.6814 31.7171 3.01001 (in ms)
+exec 0.28816 0.2756 0.3864 0.0233683 (in ms)
+recv 0.036315 0.0078 0.0424 0.00706908 (in ms)
+Exec mxv: iters: 20 blocking: 0 by row: 1 Pr ct: 1 Pr rk: 0 Load data 6683.09 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 9.20201 9.1476 9.9555 0.177821 (in ms)
+Exec mxv: iters: 20 blocking: 0 by row: 1 Pr ct: 2 Pr rk: 0 Load data 6656.7 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 15.1642 13.8511 16.102 0.4978 (in ms)
+send 0.01659 0.0025 0.2656 0.0586229 (in ms)
+exec 5.17201 4.7785 5.3142 0.143816 (in ms)
+recv 9.97444 9.0416 10.8807 0.400312 (in ms)
+Exec mxv: iters: 20 blocking: 0 by row: 1 Pr ct: 4 Pr rk: 0 Load data 6779.61 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 14.2218 12.2855 15.6673 0.634311 (in ms)
+send 0.05392 0.0051 0.8954 0.198359 (in ms)
+exec 4.36824 3.5978 4.7225 0.243934 (in ms)
+recv 9.79876 7.7878 11.2683 0.605733 (in ms)
+Exec mxv: iters: 20 blocking: 0 by row: 1 Pr ct: 8 Pr rk: 0 Load data 6608.97 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 14.9115 14.4822 16.1294 0.467854 (in ms)
+send 0.109685 0.0105 1.7638 0.389932 (in ms)
+exec 4.57022 3.3623 5.0046 0.312768 (in ms)
+recv 10.2308 9.6531 11.1131 0.415077 (in ms)
+Exec mxv: iters: 20 blocking: 0 by row: 1 Pr ct: 16 Pr rk: 0 Load data 6651.91 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 15.4307 15.1212 16.0216 0.294502 (in ms)
+send 0.22015 0.0318 2.7363 0.59406 (in ms)
+exec 4.66519 2.2087 4.8896 0.583009 (in ms)
+recv 10.5442 10.2077 11.2552 0.33156 (in ms)
+Exec mxv: iters: 20 blocking: 0 by row: 1 Pr ct: 32 Pr rk: 0 Load data 6959 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 15.0452 14.2403 16.5362 0.547445 (in ms)
+send 0.437455 0.122 4.3282 0.920844 (in ms)
+exec 2.53747 1.1724 3.0395 0.383592 (in ms)
+recv 12.0692 11.0323 12.7932 0.429058 (in ms)
+Exec mxv: iters: 20 blocking: 1 by row: 0 Pr ct: 1 Pr rk: 0 Load data 6566.6 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 9.15576 9.1469 9.1878 0.0097032 (in ms)
+Exec mxv: iters: 20 blocking: 1 by row: 0 Pr ct: 2 Pr rk: 0 Load data 6577.78 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 32.7907 31.4673 33.5301 0.381425 (in ms)
+send 26.2955 25.0701 26.9857 0.354041 (in ms)
+exec 4.65945 4.5881 4.7216 0.0275934 (in ms)
+recv 0.01504 0.0132 0.0225 0.00185965 (in ms)
+Exec mxv: iters: 20 blocking: 1 by row: 0 Pr ct: 4 Pr rk: 0 Load data 6543.76 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 35.888 35.3444 40.9659 1.2259 (in ms)
+send 31.7515 31.2051 36.8561 1.23079 (in ms)
+exec 2.30251 2.2918 2.331 0.0101637 (in ms)
+recv 0.019415 0.0175 0.0278 0.00214139 (in ms)
+Exec mxv: iters: 20 blocking: 1 by row: 0 Pr ct: 8 Pr rk: 0 Load data 6602.41 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 37.9694 37.5019 39.7594 0.726014 (in ms)
+send 34.9667 34.5227 36.7745 0.733916 (in ms)
+exec 1.11081 1.0972 1.1403 0.00876157 (in ms)
+recv 0.044275 0.041 0.0594 0.00411274 (in ms)
+Exec mxv: iters: 20 blocking: 1 by row: 0 Pr ct: 16 Pr rk: 0 Load data 6959.28 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 39.6349 38.594 45.7135 1.48787 (in ms)
+send 37.1592 36.0886 43.161 1.47107 (in ms)
+exec 0.51809 0.504 0.5352 0.00562989 (in ms)
+recv 0.09415 0.0893 0.1025 0.00346342 (in ms)
+Exec mxv: iters: 20 blocking: 1 by row: 0 Pr ct: 32 Pr rk: 0 Load data 6738.82 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 41.9737 39.9072 54.4914 4.01398 (in ms)
+send 39.6678 37.5269 51.7089 3.9326 (in ms)
+exec 0.231435 0.2223 0.2639 0.0102025 (in ms)
+recv 0.157385 0.1444 0.2166 0.0151594 (in ms)
+Exec mxv: iters: 20 blocking: 0 by row: 0 Pr ct: 1 Pr rk: 0 Load data 6581.03 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 9.09849 8.7444 9.2586 0.150816 (in ms)
+Exec mxv: iters: 20 blocking: 0 by row: 0 Pr ct: 2 Pr rk: 0 Load data 6940.18 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 33.7791 33.3307 36.1547 0.663654 (in ms)
+send 17.5183 15.041 20.727 0.961794 (in ms)
+exec 5.36003 4.731 5.5017 0.205504 (in ms)
+recv 9.097 8.8504 11.8798 0.665068 (in ms)
+Exec mxv: iters: 20 blocking: 0 by row: 0 Pr ct: 4 Pr rk: 0 Load data 6943.98 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 33.466 30.9993 34.7354 0.79601 (in ms)
+send 17.9434 17.0203 18.5815 0.331407 (in ms)
+exec 3.81215 3.6889 4.1831 0.150308 (in ms)
+recv 9.92085 8.4547 11.1043 0.454138 (in ms)
+Exec mxv: iters: 20 blocking: 0 by row: 0 Pr ct: 8 Pr rk: 0 Load data 6569.83 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 34.8238 31.7828 59.7848 5.93353 (in ms)
+send 19.3731 17.9184 20.8474 0.672553 (in ms)
+exec 4.11759 2.7553 11.9535 1.86379 (in ms)
+recv 9.23684 8.1649 24.8027 3.67522 (in ms)
+Exec mxv: iters: 20 blocking: 0 by row: 0 Pr ct: 16 Pr rk: 0 Load data 6588.61 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 36.5576 33.5149 38.1159 0.961055 (in ms)
+send 20.6923 19.1715 22.6394 0.655879 (in ms)
+exec 3.80938 2.3625 4.3286 0.419558 (in ms)
+recv 9.79836 9.5315 10.6951 0.304802 (in ms)
+Exec mxv: iters: 20 blocking: 0 by row: 0 Pr ct: 32 Pr rk: 0 Load data 6605.24 ms
+eq: i0=1, eq: i1=1, eq: i2=1, eq: i3=1, eq: i4=1, eq: i5=1, eq: i6=1, eq: i7=1, eq: i8=1, eq: i9=1, eq: i10=1, eq: i11=1, eq: i12=1, eq: i13=1, eq: i14=1, eq: i15=1, eq: i16=1, eq: i17=1, eq: i18=1, eq: i19=1,
+all 37.6571 35.1353 43.0716 1.89434 (in ms)
+send 21.0703 19.7169 27.8371 1.74979 (in ms)
+exec 2.62882 1.0014 3.7145 0.639375 (in ms)
+recv 11.672 10.967 13.1329 0.638761 (in ms)
